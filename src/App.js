@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {
+function App() { //проверка branch Git
   return (
     <div>
     </div>
